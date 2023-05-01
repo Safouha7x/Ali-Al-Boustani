@@ -11,3 +11,19 @@ SHA1: 7a0367387dcf0b37c35ae062985f3497996aaefd
 SHA256: 69cc9762f730413c3815f9765239145470b2212c0770349ea8cf3bfb5c083f61	
 Section: Tweaks	Section: Hack tweaks
 Depiction: اداة لتهكير الكيوت كات الاصدار الجديد طبعاً هيّ لا تهكره بي شكل كامل لاكنها تزيل العلامة المائية ‏و الاعلانات - A tool to hack the new version of cute cut it doesn't hate it in full form but it removes the watermark ‏and ads
+
+
+
+Package: safouha.anticontact.a.c.w_0.0.1-1+debug_iphoneos-arm
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Ali Al Boustani	/ Mhmd Nasser
+Depends:  mobilesubstrate (>= 0.9.5000) 	
+Conflicts: A.C.B	
+Filename: debs/safouha.anticontact.a.c.w_0.0.1-1+debug_iphoneos-arm
+Size:	10848996
+MD5sum: 5ce124ee6ff17217264adad89a09fba1	
+SHA1: 8f17e3763930c5535563e1c399e0b2f54d4d3052	
+SHA256: a8b6af76c58350624d097e4b6490c7fc08768f80f351a944d54f64ae0e05302e	
+Section: WA	Section: Anti
+Depiction: Make your whatsapp anti contact 😉 !
