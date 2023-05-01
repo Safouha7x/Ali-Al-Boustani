@@ -14,13 +14,13 @@ Depiction: اداة لتهكير الكيوت كات الاصدار الجديد
 
 
 
-Package: safouha.anticontact.a.c.w_0.0.1-1+debug_iphoneos-arm
+Package: safouha.anticontact.a.c.w.deb
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Ali Al Boustani	/ Mhmd Nasser
 Depends:  mobilesubstrate (>= 0.9.5000) 	
 Conflicts: A.C.B	
-Filename: debs/safouha.anticontact.a.c.w_0.0.1-1+debug_iphoneos-arm
+Filename: debs/safouha.anticontact.a.c.w.deb
 Size:	10848996
 MD5sum: 5ce124ee6ff17217264adad89a09fba1	
 SHA1: 8f17e3763930c5535563e1c399e0b2f54d4d3052	
